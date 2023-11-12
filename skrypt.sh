@@ -75,3 +75,6 @@ while true; do
     esac
 sudo reboot
 done
+
+
+#це  якісь зміни  на  першій гілці ))) 

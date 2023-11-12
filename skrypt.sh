@@ -75,3 +75,6 @@ while true; do
     esac
 sudo reboot
 done
+
+
+#а це зміни на  другій гілці , дял конфлікту гілок ))) 
